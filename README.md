@@ -27,9 +27,9 @@ A soon-to-be graduate at HUFLIT University, majoring in Information Systems (Inf
 - **Web Development** 💻: Specializing in Front-end development and design, with a focus on interactive and user-friendly interfaces.
 
 ## Work experience
-- **Currently working as IT Helpdesk Officer at LSP (Long Son Petrochemical at member of SCGC)
+- Currently working as IT Helpdesk Officer at LSP (Long Son Petrochemical at member of SCGC)
 
-- **Freelance website ,power apps developer ,main tech using include: MVC , Angular , Python - Database: MSSQL ,Oracle SQL - Azure - Power apps
+- Freelance website ,power apps developer ,main tech using include: MVC , Angular , Python - Database: MSSQL ,Oracle SQL - Azure - Power apps
 
 ## Hobbies
 
