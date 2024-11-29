@@ -5,21 +5,6 @@ A soon-to-be graduate at HUFLIT University, majoring in Information Systems (Inf
 
 ## Skills
 
-- Graphic Design 🎨: Proficient in using Adobe applications such as XD, Photoshop, and Illustrator to create impressive user interfaces and experiences.
-
-- ERP Deployment 🚀: Capable of supporting the implementation of ERP software like Odoo and SAP, ensuring stability and performance.
-
-- Web Development 💻: Specializing in Front-end development and design, with a focus on interactive and user-friendly interfaces.
-
-## Work experience
-- Currently working as IT Helpdesk Officer at LSP (Long Son Petrochemical at member of SCGC)
-- Freelance website developer ,main tech using include: MVC , Angular , Python - Database: MSSQL ,Oracle SQLello, I'm [The Dinh(Tedi)]  👋
-
-## Overview
-A soon-to-be graduate at HUFLIT University, majoring in Information Systems (Information Technology). I am a passionate individual with diverse skills, ranging from design to ERP software deployment.
-
-## Skills
-
 - **Graphic Design** 🎨: Proficient in using Adobe applications such as XD, Photoshop, and Illustrator to create impressive user interfaces and experiences.
 
 - **ERP Deployment** 🚀: Capable of supporting the implementation of ERP software like Odoo and SAP, ensuring stability and performance.
